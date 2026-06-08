@@ -164,6 +164,7 @@ Key waveform observations:
 - `tx` line shows clear UART framing: START (LOW) → 8 data bits → STOP (HIGH)
 - `rx_valid` fires exactly twice per sensor reading cycle
 - `data_out` correctly reflects the transmitted sensor byte
+<img width="787" height="440" alt="image" src="https://github.com/user-attachments/assets/547dd16b-5921-4f39-a91b-ef3ae2ca7c5d" />
 
 ---
 
